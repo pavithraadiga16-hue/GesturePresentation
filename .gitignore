@@ -1,0 +1,7 @@
+# Python virtual environment and generated Python files
+.venv/
+__pycache__/
+*.py[cod]
+
+# MediaPipe downloads this official model automatically on first run.
+hand_landmarker.task
